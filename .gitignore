@@ -1,1 +1,4 @@
 .aws
+.env
+covid
+questionario_covid_exportado.csv
